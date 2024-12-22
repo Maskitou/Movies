@@ -13,7 +13,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.lifecycleScope
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import kotlinx.coroutines.launch
-
+//Начало
 class MainActivity : AppCompatActivity() {
 
     private var filmRepository: FilmRepository = FilmRepository.get()
